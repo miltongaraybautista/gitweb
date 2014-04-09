@@ -32,7 +32,7 @@
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td height="45" class="Estilo4">nombre</td>
+    <td height="45" class="Estilo4">nombre del usuario</td>
     <td><input name="textfield2" type="text" size="30" maxlength="10" /></td>
   </tr>
   <tr>
